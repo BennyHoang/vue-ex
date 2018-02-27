@@ -4,6 +4,7 @@
     <router-view/>
     <router-link to="/" tag="a">home</router-link>
     <router-link to="about" tag="a">about</router-link>
+    <router-link to="pokemon" tag="a">pokemon</router-link>
   </div>
 </template>
 
